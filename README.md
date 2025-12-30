@@ -23,7 +23,7 @@
   <a href='https://scholar.google.com/' target='_blank'>Shujun Wang</a><sup>2†</sup>
   <br>
   <br>
-  <sup>1</sup>Zhejiang University  <sup>2</sup>The Hong Kong Polytechnic University  <sup>3</sup>IROOTECH TECHNOLOGY & Wolf 1069b Lab, Sany Group  <br><sup>4</sup>Institute of Computing Technology, Chinese Academy of Sciences  <sup>5</sup>King's College London
+  <sup>1</sup>Zhejiang University  <sup>2</sup>The Hong Kong Polytechnic University  <sup>3</sup>IROOTECH TECHNOLOGY & Wolf 1069 b Lab, Sany Group  <br><sup>4</sup>Institute of Computing Technology, Chinese Academy of Sciences  <sup>5</sup>King's College London
   <br>
   <strong>Submitted to IEEE TPAMI</strong>
 
