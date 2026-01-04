@@ -44,7 +44,7 @@
 ## 🔥 News
 
 - **[2025-01]** Inference code and pre-trained checkpoints released! 🎉
-- **[2025-01]** Paper submitted to IEEE TPAMI.
+- **[2025-01]** Paper submitted to arXiv.
 
 ## 📌 TODO List
 
