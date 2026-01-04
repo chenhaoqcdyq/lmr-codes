@@ -29,9 +29,9 @@
 </p>
 
 <p align="center">
-  <a href='https://arxiv.org/abs/XXXX.XXXXX'>
-    <img src='https://img.shields.io/badge/Arxiv-XXXX.XXXXX-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
-  <a href='https://arxiv.org/pdf/XXXX.XXXXX'>
+  <a href='https://arxiv.org/abs/2512.24100'>
+    <img src='https://img.shields.io/badge/Arxiv-2512.24100-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
+  <a href='https://arxiv.org/pdf/2512.24100'>
     <img src='https://img.shields.io/badge/Paper-PDF-blue?style=flat&logo=arXiv&logoColor=blue'></a>
   <a href='https://chenhaoqcdyq.github.io/LMR/'>
     <img src='https://img.shields.io/badge/Project-Page-green?style=flat&logo=Google%20chrome&logoColor=green'></a>
@@ -194,11 +194,14 @@ LMR consists of two main components:
 If you find our work helpful, please consider citing:
 
 ```bibtex
-@article{qian2025lmr,
-  title={Think Before You Move: Latent Motion Reasoning for Text-to-Motion Generation},
-  author={Qian, Yijie and Wang, Juncheng and Feng, Yuxiang and Xu, Chao and Lu, Wang and Liu, Yang and Sun, Baigui and Chen, Yiqiang and Liu, Yong and Wang, Shujun},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
+@misc{qian2025thinkmovelatentmotion,
+      title={Think Before You Move: Latent Motion Reasoning for Text-to-Motion Generation}, 
+      author={Yijie Qian and Juncheng Wang and Yuxiang Feng and Chao Xu and Wang Lu and Yang Liu and Baigui Sun and Yiqiang Chen and Yong Liu and Shujun Wang},
+      year={2025},
+      eprint={2512.24100},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.24100}, 
 }
 ```
 
