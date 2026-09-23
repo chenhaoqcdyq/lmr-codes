@@ -43,8 +43,9 @@
 
 ## 🔥 News
 
-- **[2025-01]** Inference code and pre-trained checkpoints released! 🎉
-- **[2025-01]** Paper submitted to arXiv.
+- **[2026-09]** Accepted to IEEE TPAMI 2026! 🎉
+- **[2026-01]** Inference code and pre-trained checkpoints released! 🎉
+- **[2026-01]** Paper submitted to arXiv.
 
 ## 📌 TODO List
 
@@ -218,7 +219,3 @@ This repository builds upon the following awesome projects:
 ## 📄 License
 
 This project is released under the MIT License. The code is for academic purposes only.
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=chenhaoqcdyq/lmr-codes&type=Date)](https://www.star-history.com/#chenhaoqcdyq/lmr-codes&Date)
